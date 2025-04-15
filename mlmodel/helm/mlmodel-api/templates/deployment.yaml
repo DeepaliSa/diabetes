@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mlmodel-api
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mlmodel-api
+  template:
+    metadata:
+      labels:
+        app: mlmodel-api
+    spec:
+      containers:
+        - name: mlmodel-api
+          image: "{{ .Values.image.repository }}:{{ .Values.image.tag }}"
+          ports:
+            - containerPort: 80

@@ -1,0 +1,7 @@
+image:
+  repository: akscontainerdemoformlops.azurecr.io/mlmodel-api
+  tag: latest
+
+service:
+  type: LoadBalancer
+  port: 80
