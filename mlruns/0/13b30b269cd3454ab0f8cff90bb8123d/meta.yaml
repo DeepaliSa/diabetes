@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepa/diabetes/mlruns/0/13b30b269cd3454ab0f8cff90bb8123d/artifacts
+end_time: 1744709898125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13b30b269cd3454ab0f8cff90bb8123d
+run_name: judicious-newt-701
+run_uuid: 13b30b269cd3454ab0f8cff90bb8123d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744662353182
+status: 3
+tags: []
+user_id: deepa

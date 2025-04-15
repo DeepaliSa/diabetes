@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepa/diabetes/mlruns/0/fe6fa3bfe8eb4614a20abdd6d1f3f847/artifacts
+end_time: 1744651543882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe6fa3bfe8eb4614a20abdd6d1f3f847
+run_name: nervous-finch-221
+run_uuid: fe6fa3bfe8eb4614a20abdd6d1f3f847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744651530638
+status: 3
+tags: []
+user_id: deepa
